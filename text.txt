@@ -1,1 +1,60 @@
 This is GitHub we learned today. It's a bit confusing but I'll adapt to it later.
+HTML Code For A Player Application : 
+
+<html>
+<head>
+<title>Application For ST (Striker) Positon</title>
+</head>
+<body bgcolor="#6CABDD">
+<h1 style="font-family: 'Courier New', Courier, monospace; text-align: center;">Application For ST</h1>
+<form>
+<fieldset style="border-width: 25px;">
+<legend style="font-size: 30px; text-align: center;">Player Information:</legend>
+<label>Please Enter Your Name:</label><br>
+<input type="text"><br><br>
+<label>Please Enter Your DOB:</label><br>
+<input type="date"><br<br><br><br>
+<label>Please Select Your Gender:</label><br><br>
+<input type="checkbox">Male<br>
+<input type="checkbox">Female<br><br>
+<label>Father's Name:</label><br>
+<input type="text"><br><br>
+<label>Grandfather's Name:</label><br>
+<input type="text"><br><br>
+<label>Please Enter Your Address:</label><br>
+<input type="text"><br><br>
+<label>Your Telephone Number:</label><br>
+<input type="text"><br><br>
+<label>Your Mobile Number:</label><br>
+<input type="text"><br><br>
+<label>Your E-mail Address:</label><br>
+<input type="text"><br><br>
+</fieldset>
+</form>
+<form>
+<fieldset style="border-width: 25px;">
+<legend style="font-size: 30px; text-align: center;">Player Physical Information:</legend>
+<label>Your Height:</label><br>
+<input type="text"><br><br>
+<label>Your Weight:</label><br>
+<input type="text"><br><br>
+<label>Your Blood Type:</label><br>
+<input type="text"><br><br>
+<label>Your Normal Blood Pressure:</label><br>
+<input type="text"><br><br>
+<label>Your Heart Beat Rate:</label><br>
+<input type="text"><br><br>
+<label>Your Vital Signs:</label><br>
+<input type="text"><br><br>
+<label>Your Pulse Rate:</label><br>
+<input type="text"><br><br>
+<label>Your Normal Body Temperature:</label><br>
+<input type="text"><br><br>
+<label>Additional Information.</label><br>
+<input type="text"><br><br>
+<input type="submit"; style="height: 50px;">
+<img src="https://cdn.wallpapersafari.com/25/73/NRVhAw.jpg" alt="Manchester City Logo"; style="height: 10cm; width: 12cm;">
+</fieldset>
+</form>
+</body>
+</html>
