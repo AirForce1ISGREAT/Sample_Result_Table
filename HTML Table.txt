@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<table border="3">
+<tr>
+<th>Name</th>
+<th>Class</th>
+<th>Registration No.</th>
+<th>Father's Name</th>
+<th>English</th>
+<th>Nepali</th>
+<th>Compulsory Math</th>
+<th>Science</th>
+<th>Social Studies</th>
+<th>Moral Education</th>
+<th>HPE</th>
+<th>OBTE</th>
+<th>Local Curriculum</th>
+<th>Total GPA</th>
+</tr>
+<th>Your Name</th>
+<th>Your Classroom</th>
+<th>2600900001393</th>
+<th>Your Father's Name</th>
+<th>A+</th>
+<th>A</th>
+<th>A+</th>
+<th>A</th>
+<th>A</th>
+<th>A+</th>
+<th>A+</th>
+<th>A</th>
+<th>A</th>
+<th>3.60</th>
+</table
+</body>
+</html>
