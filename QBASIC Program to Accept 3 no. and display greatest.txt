@@ -1,0 +1,12 @@
+CLS
+INPUT"Enter first number";a
+INPUT"Enter second number";b
+INPUT"Enter third number";c
+IF a>b and a>c THEN
+PRINT"The greatest no. is"; a
+ELSEIF b>a and b>c THEN
+PRINT"The greatest no. is";b
+ELSE
+PRINT"The greatest no. is";c
+END IF
+END
